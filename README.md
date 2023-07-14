@@ -1,2 +1,2 @@
 # subdomain-validator
-Goes trough a list of domains and validates them via trying to do a dns lookup
+Validates a list of domain names by trying to resolve them.
